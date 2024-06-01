@@ -1,0 +1,55 @@
+C:\Users\pukas\Desktop\Paraiso Patinhas\Paraiso Patinhas\bin\Debug\Paraiso Patinhas.exe.config
+C:\Users\pukas\Desktop\Paraiso Patinhas\Paraiso Patinhas\bin\Debug\Paraiso Patinhas.exe
+C:\Users\pukas\Desktop\Paraiso Patinhas\Paraiso Patinhas\bin\Debug\Paraiso Patinhas.pdb
+C:\Users\pukas\Desktop\Paraiso Patinhas\Paraiso Patinhas\obj\Debug\Paraiso Patinhas.csproj.AssemblyReference.cache
+C:\Users\pukas\Desktop\Paraiso Patinhas\Paraiso Patinhas\obj\Debug\Paraiso_Patinhas.Properties.Resources.resources
+C:\Users\pukas\Desktop\Paraiso Patinhas\Paraiso Patinhas\obj\Debug\Paraiso Patinhas.csproj.GenerateResource.cache
+C:\Users\pukas\Desktop\Paraiso Patinhas\Paraiso Patinhas\obj\Debug\Paraiso Patinhas.csproj.CoreCompileInputs.cache
+C:\Users\pukas\Desktop\Paraiso Patinhas\Paraiso Patinhas\obj\Debug\Paraiso Patinhas.exe
+C:\Users\pukas\Desktop\Paraiso Patinhas\Paraiso Patinhas\obj\Debug\Paraiso Patinhas.pdb
+C:\Users\pukas\Desktop\Paraiso Patinhas\Paraiso Patinhas\obj\Debug\Paraiso_Patinhas.frmCadastro.resources
+C:\Users\pukas\Desktop\Paraiso Patinhas\Paraiso Patinhas\obj\Debug\Paraiso_Patinhas.frmLogin.resources
+C:\Users\pukas\Desktop\Paraiso Patinhas\Paraiso Patinhas\obj\Debug\Paraiso_Patinhas.frmMenu.resources
+C:\Users\pukas\Desktop\Paraiso Patinhas - BAckup\Paraiso Patinhas\obj\Debug\Paraiso Patinhas.csproj.AssemblyReference.cache
+C:\Users\pukas\Desktop\Paraiso Patinhas - BAckup\Paraiso Patinhas\obj\Debug\Paraiso_Patinhas.frmCadastro.resources
+C:\Users\pukas\Desktop\Paraiso Patinhas - BAckup\Paraiso Patinhas\obj\Debug\Paraiso_Patinhas.frmLogin.resources
+C:\Users\pukas\Desktop\Paraiso Patinhas - BAckup\Paraiso Patinhas\obj\Debug\Paraiso_Patinhas.frmMenu.resources
+C:\Users\pukas\Desktop\Paraiso Patinhas - BAckup\Paraiso Patinhas\obj\Debug\Paraiso_Patinhas.Properties.Resources.resources
+C:\Users\pukas\Desktop\Paraiso Patinhas - BAckup\Paraiso Patinhas\obj\Debug\Paraiso Patinhas.csproj.GenerateResource.cache
+C:\Users\pukas\Desktop\Paraiso Patinhas - BAckup\Paraiso Patinhas\obj\Debug\Paraiso Patinhas.csproj.CoreCompileInputs.cache
+C:\Users\pukas\Desktop\Paraiso Patinhas - BAckup\Paraiso Patinhas\obj\Debug\Paraiso Patinhas.exe
+C:\Users\pukas\Desktop\Paraiso Patinhas - BAckup\Paraiso Patinhas\obj\Debug\Paraiso Patinhas.pdb
+C:\Users\pukas\Desktop\Paraiso Patinhas - BAckup\Paraiso Patinhas\bin\Debug\Paraiso Patinhas.exe.config
+C:\Users\pukas\Desktop\Paraiso Patinhas - BAckup\Paraiso Patinhas\bin\Debug\Paraiso Patinhas.exe
+C:\Users\pukas\Desktop\Paraiso Patinhas - BAckup\Paraiso Patinhas\bin\Debug\Paraiso Patinhas.pdb
+C:\Users\pukas\Desktop\Paraiso Patinhas - sem enc\Paraiso Patinhas\bin\Debug\Paraiso Patinhas.exe.config
+C:\Users\pukas\Desktop\Paraiso Patinhas - sem enc\Paraiso Patinhas\bin\Debug\Paraiso Patinhas.exe
+C:\Users\pukas\Desktop\Paraiso Patinhas - sem enc\Paraiso Patinhas\bin\Debug\Paraiso Patinhas.pdb
+C:\Users\pukas\Desktop\Paraiso Patinhas - sem enc\Paraiso Patinhas\obj\Debug\Paraiso Patinhas.csproj.AssemblyReference.cache
+C:\Users\pukas\Desktop\Paraiso Patinhas - sem enc\Paraiso Patinhas\obj\Debug\Paraiso_Patinhas.frmCadastro.resources
+C:\Users\pukas\Desktop\Paraiso Patinhas - sem enc\Paraiso Patinhas\obj\Debug\Paraiso_Patinhas.frmLogin.resources
+C:\Users\pukas\Desktop\Paraiso Patinhas - sem enc\Paraiso Patinhas\obj\Debug\Paraiso_Patinhas.frmMenu.resources
+C:\Users\pukas\Desktop\Paraiso Patinhas - sem enc\Paraiso Patinhas\obj\Debug\Paraiso_Patinhas.Properties.Resources.resources
+C:\Users\pukas\Desktop\Paraiso Patinhas - sem enc\Paraiso Patinhas\obj\Debug\Paraiso Patinhas.csproj.GenerateResource.cache
+C:\Users\pukas\Desktop\Paraiso Patinhas - sem enc\Paraiso Patinhas\obj\Debug\Paraiso Patinhas.csproj.CoreCompileInputs.cache
+C:\Users\pukas\Desktop\Paraiso Patinhas - sem enc\Paraiso Patinhas\obj\Debug\Paraiso Patinhas.exe
+C:\Users\pukas\Desktop\Paraiso Patinhas - sem enc\Paraiso Patinhas\obj\Debug\Paraiso Patinhas.pdb
+C:\Users\pukas\Desktop\Paraiso Patinhas\Paraiso Patinhas\obj\Debug\Paraiso_Patinhas.frmAdotar.resources
+C:\Users\pukas\Desktop\Paraiso Patinhas\Paraiso Patinhas\obj\Debug\Paraiso_Patinhas.frmRespAdotar.resources
+C:\Users\pukas\Desktop\Paraiso Patinhas\Paraiso Patinhas\obj\Debug\Paraiso_Patinhas.frmDoar.resources
+C:\Users\pukas\Desktop\Paraiso Patinhas - Copia\Paraiso Patinhas\bin\Debug\Paraiso Patinhas.exe.config
+C:\Users\pukas\Desktop\Paraiso Patinhas - Copia\Paraiso Patinhas\bin\Debug\Paraiso Patinhas.exe
+C:\Users\pukas\Desktop\Paraiso Patinhas - Copia\Paraiso Patinhas\bin\Debug\Paraiso Patinhas.pdb
+C:\Users\pukas\Desktop\Paraiso Patinhas - Copia\Paraiso Patinhas\obj\Debug\Paraiso Patinhas.csproj.AssemblyReference.cache
+C:\Users\pukas\Desktop\Paraiso Patinhas - Copia\Paraiso Patinhas\obj\Debug\Paraiso_Patinhas.frmAdotar.resources
+C:\Users\pukas\Desktop\Paraiso Patinhas - Copia\Paraiso Patinhas\obj\Debug\Paraiso_Patinhas.frmCadastro.resources
+C:\Users\pukas\Desktop\Paraiso Patinhas - Copia\Paraiso Patinhas\obj\Debug\Paraiso_Patinhas.frmDoacaoAlimentos.resources
+C:\Users\pukas\Desktop\Paraiso Patinhas - Copia\Paraiso Patinhas\obj\Debug\Paraiso_Patinhas.frmDoar.resources
+C:\Users\pukas\Desktop\Paraiso Patinhas - Copia\Paraiso Patinhas\obj\Debug\Paraiso_Patinhas.frmLogin.resources
+C:\Users\pukas\Desktop\Paraiso Patinhas - Copia\Paraiso Patinhas\obj\Debug\Paraiso_Patinhas.frmMenu.resources
+C:\Users\pukas\Desktop\Paraiso Patinhas - Copia\Paraiso Patinhas\obj\Debug\Paraiso_Patinhas.Properties.Resources.resources
+C:\Users\pukas\Desktop\Paraiso Patinhas - Copia\Paraiso Patinhas\obj\Debug\Paraiso_Patinhas.frmRespAdotar.resources
+C:\Users\pukas\Desktop\Paraiso Patinhas - Copia\Paraiso Patinhas\obj\Debug\Paraiso Patinhas.csproj.GenerateResource.cache
+C:\Users\pukas\Desktop\Paraiso Patinhas - Copia\Paraiso Patinhas\obj\Debug\Paraiso Patinhas.csproj.CoreCompileInputs.cache
+C:\Users\pukas\Desktop\Paraiso Patinhas - Copia\Paraiso Patinhas\obj\Debug\Paraiso Patinhas.exe
+C:\Users\pukas\Desktop\Paraiso Patinhas - Copia\Paraiso Patinhas\obj\Debug\Paraiso Patinhas.pdb

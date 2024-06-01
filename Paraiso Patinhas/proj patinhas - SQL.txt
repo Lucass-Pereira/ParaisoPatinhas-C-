@@ -1,0 +1,42 @@
+drop table usu_patinhas
+
+drop table pet_patinhas
+
+
+create table[dbo].[usu_patinhas](
+[id] [int] identity(1,1) Not Null,
+[usuario] [varchar](20)COLLATE Latin1_General_CS_AS unique Not Null,
+[senha] [varchar](20)COLLATE Latin1_General_CS_AS Not Null,
+[email] [varchar](40) unique Not Null, 
+[nome] [varchar](30) Not Null,
+[telefone] [varchar](15) Null,
+[endereco] [varchar](50) Null,
+[adm]	[varchar](1)CHECK (adm IN ('S','s'))
+);
+
+insert into usu_patinhas (usuario, senha, email, nome, adm) values
+('admin', 'admin', 'admin', 'admin', 'S')
+
+create table[dbo].[pet_patinhas](
+[id] [int] identity(1,1) Not Null,
+[Especie] [varchar](4) check (especie in ('Cão', 'Gato')) not null,
+[Nome] [varchar](15) not null,
+[Sexo] [varchar](5) check (sexo in ('Macho', 'Fêmea'))not Null,
+[Cor] [varchar](8)  check (cor in ('Branco','Preto','Caramelo', 'Cinza')) not null,
+[Porte] [varchar](7)  CHECK (porte in ('Pequeno','Médio','Grande')) Null,
+[caminho_img] [varchar](150)
+);
+
+INSERT INTO pet_patinhas ( especie, nome, SEXO, cor, porte) values
+('Cão', 'Pitoco', 'Macho', 'Branco', 'Pequeno'),
+('Cão', 'Thor', 'Macho', 'Branco', 'Médio'),('Cão', 'Pandora', 'Fêmea', 'Branco', 'Pequeno'),
+('Cão', 'Zeus', 'Macho', 'Cinza', 'Grande'),('Gato', 'Agáta', 'Fêmea', 'Cinza', 'Pequeno'),
+('Cão', 'Mylo', 'Macho', 'Cinza', 'Pequeno'),('Gato', 'Sabrina', 'Fêmea', 'Branco', 'Pequeno'),
+('Cão', 'Paçoca', 'Macho', 'Caramelo', 'Médio'),('Cão', 'Lola', 'Fêmea', 'Branco', 'Médio'),
+('Cão', 'Pingo', 'Macho', 'Caramelo', 'Grande'),('Gato', 'Garfield', 'Macho', 'Caramelo', 'Médio'),
+('Cão', 'Gigante', 'Macho', 'Preto', 'Pequeno'),('Cão', 'Paçoca', 'Fêmea', 'Caramelo', 'Grande'),
+('Cão', 'Bidu', 'Macho', 'Preto', 'Médio'),('Gato', 'Chavinho', 'Macho', 'Preto', 'Pequeno'),
+('Cão', 'Pelé', 'Macho', 'Preto', 'Grande'),('Gato', 'Miau', 'Macho', 'Branco', 'Médio'),
+('Gato', 'Odin', 'Macho', 'Cinza', 'Grande'),('Cão', 'Lily', 'Fêmea', 'Cinza', 'Pequeno'),
+('Gato', 'Godínez', 'Macho', 'Caramelo', 'Grande'),('Gato', 'Penelope', 'Fêmea', 'Branco', 'Médio'),
+('Cão', 'Lady', 'Fêmea', 'Cinza', 'Grande'),('Gato', 'Dinah', 'Fêmea', 'Preto', 'Grande')
